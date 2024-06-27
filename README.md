@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/6027-rainbowfrog.gif"></h1>
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/8928-pugparty.gif"></h1>
-
-<a href="https://emoji.gg/emoji/7971-cooldoge"><img src="https://cdn3.emoji.gg/emojis/7971-cooldoge.gif" width="64px" height="64px" alt="cooldoge"></a>
-<a href="https://emoji.gg/emoji/9220-cool-huchu"><img src="https://cdn3.emoji.gg/emojis/9220-cool-huchu.png" width="64px" height="64px" alt="cool_huchu"></a>
+<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/2282_peruparrot.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Latam</h3>
 
 - 🔭 I’m currently working on my **Advanced Javascript Course**
