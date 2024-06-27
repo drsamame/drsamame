@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/6320-hack.gif"></h1>
+<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/6027-rainbowfrog.gif"></h1>
 
 <h3 align="center">A passionate Front-End developer from Latam</h3>
 
