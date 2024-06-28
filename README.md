@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://tenor.com/es/view/bandera-peruana-peru-flag-peruvian-peruvian-flag-gif-23011047"></h1>
+<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/6041-joe-sunglassesanimated.gif"></h1>
 
 
 <h3 align="center">A passionate Front-End developer from Latam</h3>
