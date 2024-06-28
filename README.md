@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://cdn3.emoji.gg/emojis/2941-bearthumbsup.gif"></h1>
+<h1 align="center">Hi <img height="40" src="https://cdn3.emoji.gg/emojis/2941-bearthumbsup.gif">, I'm Diego </h1>
 
 
 
