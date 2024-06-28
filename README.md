@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **drsamame@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, Muay thai and Mountaing bike...and coding of course**
+- ⚡ What I like to do: **I like so much Mind Wellness, Muay thai and Mountaing bike...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
