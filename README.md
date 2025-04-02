@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate Front-End developer from Latam</h3>
 
-- 🔭 I’m currently working on my **Advanced Javascript Course**
+- 🔭 I’m currently working on my **Advanced Javascript Scaffolding and Aligments**
 
-- 🌱 I’m currently learning **Gsap, ThreeJS and Node**
+- 🌱 I’m currently learning **Microfrontend with Single SPA**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
