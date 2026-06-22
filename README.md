@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Front-End developer from Latam</h3>
 
-- 🔭 I’m currently working on my **Advanced Javascript Scaffolding and Aligments**
+- 🔭 I’m currently working on my **IA Automation**
 
 - 🌱 I’m currently learning **Microfrontend with Single SPA**
 
