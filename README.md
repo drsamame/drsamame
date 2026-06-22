@@ -31,7 +31,6 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="50" height="50"/> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="css3" width="50" height="40"/> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="50"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="60" height="40"/>
 </p>
 
 <p align= "center">
