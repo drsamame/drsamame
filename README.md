@@ -26,13 +26,12 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="html5" width="40" height="40"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="css3" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="css3" width="40" height="40"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="html5" width="90" height="40"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="40"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="60" height="40"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="css3" width="70" height="40"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="60"/> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="80" height="40"/>
 </p>
 
 <p align= "center">
